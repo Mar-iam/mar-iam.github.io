@@ -8,8 +8,8 @@ sections:
   - block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
-     title: Hugo Academic Theme
-     image:
+      title: Hugo Academic Theme
+      image:
         filename: hero-academic.png
       cta:
         label: '**Get Started**'
@@ -29,13 +29,13 @@ sections:
 
         <!--Custom spacing-->
         <div class="mb-3"></div>
-         <!--GitHub Button JS-->
-         <script async defer src="https://buttons.github.io/buttons.js"></script>
-     design:
-       background:
-         gradient_end: '#1976d2'
-         gradient_start: '#004ba0'
-         text_color_light: true
+        <!--GitHub Button JS-->
+        <script async defer src="https://buttons.github.io/buttons.js"></script>
+    design:
+      background:
+        gradient_end: '#1976d2'
+        gradient_start: '#004ba0'
+        text_color_light: true
   - block: about.biography
     id: about
     content:
