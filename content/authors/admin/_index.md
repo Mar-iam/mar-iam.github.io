@@ -51,11 +51,6 @@ education:
 skills:
   - name: Technical
     items:
-    - name: Data Science
-        description: 'Descriptive | Inferential Statistics | AI'
-        percent:
-        icon: chart-line
-        icon_pack: fas
       - name: R
         description: 'Data Analysis | Data Visualisation | RMarkdown'
         percent: 
@@ -66,6 +61,11 @@ skills:
         percent:
         icon: python
         icon_pack: fab
+      - name: Data Science
+        description: 'Descriptive | Inferential Statistics | AI'
+        percent:
+        icon: chart-line
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -102,4 +102,3 @@ highlight_name: true
 ---
 
 I'm a Senior Research Associate at Hamad Bin Khalifa University in Qatar, where I'm passionate about using technology to unlock new possibilities in health and wellbeing research. My interests lie in human-computer interaction, cognitive science, artificial intelligence, and virtual reality applications.
-
