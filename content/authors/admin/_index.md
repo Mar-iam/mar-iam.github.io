@@ -51,6 +51,11 @@ education:
 skills:
   - name: Technical
     items:
+    - name: Data Science
+        description: 'Descriptive | Inferential Statistics | AI'
+        percent:
+        icon: chart-line
+        icon_pack: fas
       - name: R
         description: 'Data Analysis | Data Visualisation | RMarkdown'
         percent: 
@@ -61,11 +66,6 @@ skills:
         percent:
         icon: python
         icon_pack: fab
-      - name: Data Science
-        description: 'Descriptive | Inferential Statistics | AI'
-        percent:
-        icon: chart-line
-        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
