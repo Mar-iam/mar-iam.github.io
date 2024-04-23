@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
-  font_size: L
+  theme_day: skyblue
+  theme_night: skyblue
+  font: custom-font
+  font_size: M
 
 # SEO
 
@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    description: 'Academic Website.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -34,8 +34,8 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
-    show_logo: true
+    align: r
+    show_logo: false
     show_language: false
     show_day_night: true
     show_search: true
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Mariam Bahameish. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/mar-iam/mar-ia,github.io'
     content_dir: content
     branch: main
   avatar:
@@ -79,7 +79,7 @@ features:
   comment:
     provider: ''
     disqus:
-      shortname: ''
+      shortname: 'mariamDisqus'
       show_count: true
     commento:
       url: ''
