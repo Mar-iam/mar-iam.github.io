@@ -27,7 +27,7 @@ For instance, the Heart Rate Profile enables the communication between the Heart
 
 <img class="special-img-class" style="width:70%" src="hrprofile.png" />
 
-All [services](https://www.bluetooth.com/specifications/gatt/services/) and [characteristics](https://www.bluetooth.com/specifications/gatt/characteristics/) within the GATT framework are identified with a universally unique ID.
+All services and characteristics within the GATT framework are identified with a universally unique ID.
 
 # Heart Rate Service
 Within the HR service, there are four main characteristics:
@@ -76,7 +76,3 @@ Retrieving RR-intervals from Bluetooth LE packets is not straightforward. Since 
 2. If RR-Intervals are available, then retrieve the data:
   * Combine every two bytes that represent one measurement until the end of the data packet. (RR-Intervals format is UINT16)
   * Convert the measurements to seconds by dividing the RR-Intervals by 1024.
-
-## More information
-* [Heart Rate Service Specifications](https://www.bluetooth.com/wp-content/uploads/Sitecore-Media-Library/Gatt/Xml/Services/org.bluetooth.service.heart_rate.xml)
-* [Heart Rate Service Documentation](https://www.bluetooth.org/docman/handlers/downloaddoc.ashx?doc_id=239866)
