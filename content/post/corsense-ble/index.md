@@ -19,6 +19,8 @@ summary = "An interface for reading and filtering HR and HRV data from corSense 
 
 +++
 
-Based on my previous post on [Extracting Heart Rate Measurements from Bluetooth LE Packets]({{< ref "/post/hr-ble" >}}), I have integrated a real-time artefact detection and correction algorithms. This approach uses a window size of 10 RR intervals to analyze and correct the signal during the acquisition process. The source code is available on my [github page](https://github.com/Mar-iam/corSense).
+Based on my previous post on [Extracting Heart Rate Measurements from Bluetooth LE Packets]({{< ref "/post/hr-ble" >}}), I have integrated a real-time artefact detection and correction algorithms. This approach uses a window size of 10 RR intervals to analyze and correct the signal during the acquisition process. 
 
 <img class="special-img-class" style="width:70%" src="RR.gif" />
+
+*The source code is available on my [github page](https://github.com/Mar-iam/corSense).*
