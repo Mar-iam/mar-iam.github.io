@@ -19,7 +19,10 @@ summary = "An interface for reading and filtering HR and HRV data from corSense 
 
 +++
 
-Based on my previous post on Extracting Heart Rate Measurements from Bluetooth LE Packets. {{< ref "/post/hr-ble" >}}
+Based on my previous post on [Extracting Heart Rate Measurements from Bluetooth LE Packets]({{< ref "/post/hr-ble" >}}).
+
+
+[Extracting Heart Rate Measurements from Bluetooth LE Packets]({{< ref "/post/hr-ble" >}} "BLE")
 
 ## Artefact Detection
 Artefact detection is based on a moving window of median RR (window size = 10).
