@@ -1,5 +1,5 @@
 +++
-title = "Real-Time HRV Collection using CorSEnse"
+title = "Real-Time HRV Collection using CorSense"
 subtitle = ""
 date = 2024-04-06T00:00:00Z
 draft = false  # Display this post? (true/false)
@@ -18,6 +18,8 @@ summary = "An interface for reading and filtering HR and HRV data from corSense 
 # projects = ["internal-project"]
 
 +++
+
+Based on my previous post on Extracting Heart Rate Measurements from Bluetooth LE Packets. {{< ref "/post/hr-ble" >}}
 
 ## Artefact Detection
 Artefact detection is based on a moving window of median RR (window size = 10).
