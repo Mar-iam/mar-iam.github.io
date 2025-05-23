@@ -6,7 +6,7 @@ authors:
 - Yasmin Abdelaal
 - Dena Al-Thani
 date: '2025-04-03'
-publishDate: '2024-07-24T20:29:18.199132Z'
+publishDate: '2025-04-03T20:29:18.199132Z'
 publication_types:
 - article-journal
 publication: '*Interactive Learning Enviornments*'

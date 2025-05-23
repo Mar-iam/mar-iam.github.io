@@ -101,4 +101,4 @@ social:
 highlight_name: true
 ---
 
-I'm a Senior Research Associate at Hamad Bin Khalifa University in Qatar, where I'm passionate about using technology to unlock new opportunities in health and wellbeing research. My interests lie in human-computer interaction, cognitive science, artificial intelligence, and virtual reality applications.
+I'm a Senior Research Associate at Hamad Bin Khalifa University in Qatar, where I'm passionate about using technology to explore new opportunities in health and wellbeing research. My interests lie in human-computer interaction, cognitive science, artificial intelligence, and virtual reality applications.
